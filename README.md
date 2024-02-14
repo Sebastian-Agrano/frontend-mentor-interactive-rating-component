@@ -7,6 +7,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -35,6 +36,10 @@ Users should be able to:
 #### Mobile 375px
 ![](./screenshots/mobile-screenshot1.jpg)
 ![](./screenshots/mobile-screenshot2.jpg)
+
+### Link
+
+- Live Site URL: [GitHub Pages]( https://sebastian-agrano.github.io/frontend-mentor-interactive-rating-component/)
 
 ## My process
 
